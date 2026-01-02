@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "765110982130",
+    "project_id": "teacher-attendance-5489f",
+    "storage_bucket": "teacher-attendance-5489f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765110982130:android:6737ce54d7ca982f77876b",
+        "android_client_info": {
+          "package_name": "com.akhil.teacher_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvZyDV3InX5OVkUD10LiGsrKPJMwaKCT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765110982130:android:1d1f52c4e884384877876b",
+        "android_client_info": {
+          "package_name": "com.example.teacher_attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvZyDV3InX5OVkUD10LiGsrKPJMwaKCT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
